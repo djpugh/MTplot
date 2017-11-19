@@ -42,5 +42,9 @@ Package Contents:
 
     ExampleConvert:     Example Script for running batch conversion and outputting to file.
                             Input needs to be written by the user - dependent on format
+
+    The code needs the panel package (from mathworks central).
             
-There is some additional functionality designed to work well with MTINV.
+There is some additional functionality designed to work well with mtfit.
+
+*N.B. This code was written as part of a PhD project and is not under active development or support.*
